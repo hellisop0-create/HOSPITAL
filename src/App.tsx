@@ -372,7 +372,7 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-sm font-bold text-slate-400 uppercase tracking-widest">Emergency Call</p>
-                <p className="text-xl font-bold">+1 (800) 123-4567</p>
+                <p className="text-xl font-bold">03123456</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -381,7 +381,7 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-sm font-bold text-slate-400 uppercase tracking-widest">Location</p>
-                <p className="text-xl font-bold">123 Health Ave, Medical City, NY</p>
+                <p className="text-xl font-bold">HYDERABAD, SINDH</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -390,7 +390,7 @@ const Contact = () => {
               </div>
               <div>
                 <p className="text-sm font-bold text-slate-400 uppercase tracking-widest">Email Us</p>
-                <p className="text-xl font-bold">care@medicarepremium.com</p>
+                <p className="text-xl font-bold">SAQLAINBHAI@GMAIL.COM</p>
               </div>
             </div>
           </div>

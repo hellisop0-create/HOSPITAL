@@ -276,8 +276,8 @@ const Services = () => {
   return (
     <Section id="services" className="bg-white">
       <div className="text-center max-w-2xl mx-auto mb-16">
-        <h2 className="text-4xl font-bold text-slate-900 mb-4">Our Specialized Services</h2>
-        <p className="text-slate-600">We offer a wide range of medical specialties staffed by world-class experts dedicated to your well-being.</p>
+        <h2 className="text-4xl font-bold text-slate-900 mb-4">WE ARE SUPRAMAN</h2>
+        <p className="text-slate-600">WE HAVE BEST DOCTERS, NURSES</p>
       </div>
 
       <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">

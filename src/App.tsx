@@ -75,14 +75,14 @@ const SERVICES: Service[] = [
 const DOCTORS: Doctor[] = [
   {
     id: '1',
-    name: 'Dr. Sarah Mitchell',
+    name: 'Dr. BURJ KHALIFA',
     specialty: 'Chief Cardiologist',
     image: 'https://images.unsplash.com/photo-1559839734-2b71f1e3c77e?auto=format&fit=crop&q=80&w=300&h=400',
     rating: 4.9
   },
   {
     id: '2',
-    name: 'Dr. James Wilson',
+    name: 'Dr. NEYMAR JR',
     specialty: 'Neurologist',
     image: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=300&h=400',
     rating: 4.8
@@ -92,7 +92,7 @@ const DOCTORS: Doctor[] = [
     name: 'Dr. Elena Rodriguez',
     specialty: 'Pediatric Specialist',
     image: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&q=80&w=300&h=400',
-    rating: 5.0
+    rating: 1000
   }
 ];
 
